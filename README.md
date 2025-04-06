@@ -20,8 +20,8 @@ Diese Anleitung zeigt, wie man ein Google Team Drive mit rclone verbindet, ohne 
 6. Bei der Eingabe des **client_secret**: Lasse das Feld ebenfalls **leer** und drücke **Enter**.
 
 7. Wähle den Zugriffstyp:
-    - Gib **1** für **vollen Zugriff** (empfohlen) ein.
-    - Gib **2** für **nur lesenden Zugriff** ein.
+    - Gib `1` für **vollen Zugriff** (empfohlen) ein.
+    - Gib `2` für **nur lesenden Zugriff** ein.
 
 8. Wenn du den gesamten Google Drive synchronisieren möchtest, lasse das **Root-Ordner**-Feld leer.
 
